@@ -24,8 +24,8 @@ I have a public python repo where i drop some random Python things, there's not 
 
 I'm very active over on discord, hit me up: @Joa_sss#0001
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=50px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/486563467810308096)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/486563467810308096)
 
 
-![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
