@@ -27,3 +27,5 @@ I'm very active over on discord, hit me up: @Joa_sss#0001
 Alternativly, e-mail me at [joa_sss@quabot.net](mailto:joa_sss@quabot.net)
 
 
+![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
