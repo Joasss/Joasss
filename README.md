@@ -24,7 +24,7 @@ I have a public python repo where i drop some random Python things, there's not 
 
 I'm very active over on discord, hit me up: @Joa_sss#0001
 
-Alternativly, e-mail me at [joa_sss@quabot.net](mailto:joa_sss@quabot.net)
+[![Discord Presence](https://lanyard.cnrad.dev/api/486563467810308096)](https://discord.com/users/486563467810308096)
 
 
 ![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
