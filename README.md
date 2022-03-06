@@ -24,4 +24,5 @@ I'm very active over on discord, hit me up: @Joa_sss#0001
 
 
 ![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&count_private=true&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
