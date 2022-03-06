@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Joa_sss, a Javascript, HTML and learning python developer from the netherlands 🇳🇱.
+I'm Joa_sss, a Javascript, HTML and learning python developer from the nNetherlands.
 I've worked on QuaBot for about a year, wich is now open source. More info on quabot below.
 Languages i know are: Javascript, CSS, HTML, Python (learning), C++ and java (a little bit)!
 
