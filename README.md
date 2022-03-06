@@ -9,6 +9,7 @@ Languages i know are: Javascript, CSS, HTML, Python (learning), C++ and java (a 
 **QuaBot**
 
 Is a discord bot written in Javascript used by over 50,000 users, with many features like Music, Reaction Roles, Tickets, Audits and a lot more.
+**I've dropped developement, more information [here](https://gist.github.com/Joasss/d137ce3a90688dbbce24586b6e9cc557)**
 
 You can invite it here: [invite.quabot.net](https://invite.quabot.net) and find the website here: [quabot.net](https://quabot.net)
 
