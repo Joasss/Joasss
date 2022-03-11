@@ -19,6 +19,6 @@ I'm very active over on discord, hit me up: @Zaphyr#0001
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/486563467810308096)
 
 
-![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaphyr-Github&count_private=true&show_icons=true&theme=dark)
+![Zaphyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaphyr909&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaphyr-Github&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaphyr909&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
