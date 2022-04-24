@@ -1,7 +1,7 @@
 Hey there! 👋
 
-I'm Zaphyr/Joa_sss, a Javascript, HTML and learning python developer from the Netherlands.
-I've worked on QuaBot for about a year, wich is now discontinued.
+I'm Joa_sss, a Javascript, HTML and learning python developer from the Netherlands.
+I've worked on QuaBot for about a year, wich is now discontinued. (but coming back)
 Languages i know are: Javascript, CSS, HTML, Python (learning), C++ and java (a little bit)!
 
 
@@ -10,15 +10,15 @@ Languages i know are: Javascript, CSS, HTML, Python (learning), C++ and java (a 
 
 Was a discord bot written in Javascript used by over 50,000 users, with many features like Music, Reaction Roles, Tickets, Audits and a lot more.
 
-It has since been shut down.
+It has since been shut down. (but coming back)
 
 **Contact**
 
-I'm very active over on discord, hit me up: @Zaphyr#0001
+I'm very active over on discord, hit me up: @Joa_sss#0001
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/486563467810308096)
 
 
-![Zaphyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaphyr909&count_private=true&show_icons=true&theme=dark)
+![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaphyr909&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
