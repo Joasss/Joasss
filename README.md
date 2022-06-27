@@ -5,12 +5,9 @@ I've worked on QuaBot for about a year, wich is now discontinued. (but coming ba
 Languages i know are: Javascript, CSS, HTML, Python (learning), C++ and java (a little bit)!
 
 
-
 **QuaBot**
 
 Was a discord bot written in Javascript used by over 50,000 users, with many features like Music, Reaction Roles, Tickets, Audits and a lot more.
-
-It has since been shut down. (but coming back)
 
 **Contact**
 
