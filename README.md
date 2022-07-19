@@ -11,9 +11,18 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=joasss&style=flat-square&color=blue" alt=""/>
 </div>
 
-Introduction
+---
+
+### Introduction
+
+👋 Hi! I'm Joa_sss and i'm a (primarily) javascript developer from the Netherlands. I love coding and playing games, and you're on my github profile!
+- To reach me DM me on discord: Joa_sss#0001
+- I'm currently working on QuaBot, a multipurpose discord bot.
+- I like to game in my free time and when i'm bored.
+- I'm always looking to explore new things!
 
 Languages & Tools
 
