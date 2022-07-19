@@ -7,6 +7,9 @@
   <a href="https://discord.gg/HhPtvhPU2n">
     <img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="[https://discord.gg/HhPtvhPU2n](https://www.reddit.com/user/Joa_sss)">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
 </div>
 </div>
 
