@@ -19,10 +19,10 @@
 ### Introduction
 
 👋 Hi! I'm Joa_sss and i'm a (primarily) javascript developer from the Netherlands. I love coding and playing games, and you're on my github profile!
-- To reach me DM me on discord: Joa_sss#0001
-- I'm currently working on QuaBot, a multipurpose discord bot.
-- I like to game in my free time and when i'm bored.
-- I'm always looking to explore new things!
+- 🗨️ To reach me DM me on discord: Joa_sss#0001
+- 💻 I'm currently working on QuaBot, a multipurpose discord bot.
+- 🎮 I like to game in my free time and when i'm bored.
+- 🔍 I'm always looking to explore new things!
 
 Languages & Tools
 
