@@ -1,17 +1,17 @@
-Hey there! 👋
+<div id="header" align="center">
+  <img src="https://i.imgur.com/CvMW3Km.png" width="100"/>
+</div>
 
-I'm Joa_sss, a Javascript, HTML and learning python developer from the Netherlands.
-I've worked on QuaBot for about a year, wich is now discontinued. (but coming back)
-Languages i know are: Javascript, CSS, HTML, Python (learning), C++ and java (a little bit)!
+Introduction
 
+Languages & Tools
 
-**QuaBot**
+Current Projects
 
-Was a discord bot written in Javascript used by over 50,000 users, with many features like Music, Reaction Roles, Tickets, Audits and a lot more.
+Stats
 
-**Contact**
-
-I'm very active over on discord, hit me up: @Joa_sss#0001
+Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/486563467810308096)
 
