@@ -44,16 +44,18 @@
 
 ### Current Projects
 
+- **QuaBot** - Discord Bot with 40 commands. Multipurpose with Logging, Moderation and more. Check the website [here](https://quabot.net), invite it [here](https://invite.quabot.net). We also have a [dashboard](https://dashboard.quabot.net).
+
 ---
 
 ### Stats
 
-Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  
+![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&count_private=true&show_icons=true&theme=light)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joasss&theme=light)](https://git.io/streak-stats)
+
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/486563467810308096)
-
-
-![Joasss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joasss&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joasss&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
