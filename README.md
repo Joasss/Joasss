@@ -54,6 +54,8 @@
 
 - **QuaBot** - Discord Bot with 40 commands. Multipurpose with Logging, Moderation and more. Check the website [here](https://quabot.net), invite it [here](https://invite.quabot.net). We also have a [dashboard](https://dashboard.quabot.net).
 
+- **Electron Password Generator** - A very simple password generator made in electron. Check it out [here](https://github.com/Joasss/Electron-Music-Player).
+
 ---
 
 ### Stats
