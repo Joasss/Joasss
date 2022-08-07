@@ -52,9 +52,8 @@
 
 ### Current Projects
 
-- **QuaBot** - Discord Bot with 40 commands. Multipurpose with Logging, Moderation and more. Check the website [here](https://quabot.net), invite it [here](https://invite.quabot.net). We also have a [dashboard](https://dashboard.quabot.net).
-
-- **Electron Password Generator** - A very simple password generator made in electron. Check it out [here](https://github.com/Joasss/Electron-Password-Generator).
+- **NeoPass** - A very simple password generator made in electron. Check it out [here](https://github.com/Joasss/Electron-Password-Generator).
+- **JoasLP** - An electron based music player with a queue, volume system and progress indicator.
 
 ---
 
