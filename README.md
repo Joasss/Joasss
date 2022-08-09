@@ -52,8 +52,14 @@
 
 ### Current Projects
 
-- **NeoPass** - A very simple password generator made in electron. Check it out [here](https://github.com/Joasss/Electron-Password-Generator).
-- **JoasLP** - An electron based music player with a queue, volume system and progress indicator.
+- **QuaMC** - A coming soon Minecraft server.
+
+---
+
+### Completed Projects
+
+- **NeoPass** - A very simple password generator made in electron. Check it out [here](https://github.com/Joasss/NeoPass).
+- **JoasMP** - An electron based music player with a queue, volume system and progress indicator. Check it out [here](https://github.com/Joasss/JoasMP).
 
 ---
 
