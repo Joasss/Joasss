@@ -20,6 +20,7 @@
 
 👋 Hi! I'm Joa_sss and i'm a (primarily) javascript developer from the Netherlands. I love coding and playing games, and you're on my github profile!
 - 🗨️ To reach me DM me on discord: Joa_sss#0001
+- ➕ Join the [QuaBot Discord server](https://discord.quabot.net).
 - 💻 I'm currently working on QuaBot, a multipurpose discord bot.
 - 🎮 I like to game in my free time and when i'm bored.
 - 🔍 I'm always looking to explore new things!
@@ -53,6 +54,7 @@
 ### Current Projects
 
 - **QuaMC** - A coming soon Minecraft server.
+- **QuaBot** - A super duper sexy Discord bot with [dashboard](https://quabot.net).
 
 ---
 
