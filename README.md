@@ -23,7 +23,8 @@
 - ➕ Join the [QuaBot Discord server](https://discord.quabot.net).
 - 💻 I'm currently working on QuaBot, a multipurpose discord bot.
 - 🎮 I like to game in my free time and when i'm bored.
-- 🔍 I'm always looking to explore new things!
+- 🔍 I'm always looking to explore new things
+- ❌ I am not learning any new languages at the moment.
 
 ---
 
@@ -53,7 +54,6 @@
 
 ### Current Projects
 
-- **QuaMC** - A coming soon Minecraft server.
 - **QuaBot** - A super duper sexy Discord bot with [dashboard](https://quabot.net).
 
 ---
