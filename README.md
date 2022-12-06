@@ -19,12 +19,11 @@
 ### Introduction
 
 👋 Hi! I'm Joa_sss and i'm a (primarily) javascript developer from the Netherlands. I love coding and playing games, and you're on my github profile!
-- 🗨️ To reach me DM me on discord: Joa_sss#0001
-- ➕ Join the [QuaBot Discord server](https://discord.quabot.net).
+- 🗨️ To reach me DM me on discord: join the [QuaBot Discord server](https://discord.quabot.net).
 - 💻 I'm currently working on QuaBot, a multipurpose discord bot.
+- 💻 I'm also working on [pasterboard](https://pasterboard.online), a simple twitter clone.
 - 🎮 I like to game in my free time and when i'm bored.
 - 🔍 I'm always looking to explore new things
-- ❌ I am not learning any new languages at the moment.
 
 ---
 
