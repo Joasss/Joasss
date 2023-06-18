@@ -1,10 +1,10 @@
 <div id="header" align="center">
 <!--   <img src="https://api.pasterboard.online/cdn/fe2626bf7af36a77a9419e27d29af965" width="100"/> -->
   <div id="badges">
-  <a href="[https://www.youtube.com/c/Joasss](https://www.youtube.com/channel/UCFg3VUmIo-eB7qI5i7_EyGg)">
+  <a href="https://www.youtube.com/channel/UCFg3VUmIo-eB7qI5i7_EyGg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://discord.gg/HhPtvhPU2n">
+  <a href="https://discord.gg/HYGA7Y6ptk">
     <img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.reddit.com/user/Joa_sss">
