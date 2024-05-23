@@ -47,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  - also working on learning NestJS and NextJS
 </div>
 
 ---
@@ -54,6 +55,8 @@
 ### Current Projects
 
 - **QuaBot** - A super duper sexy Discord bot with [dashboard](https://quabot.net).
+- **Pasterboard**
+- **QuaPin**
 
 ---
 
