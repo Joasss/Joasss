@@ -16,6 +16,10 @@
 
 ---
 
+[![Discord Bots](https://top.gg/api/widget/995243562134409296.svg)](https://top.gg/bot/995243562134409296/vote)
+
+---
+
 ### Introduction
 
 👋 Hi! I'm Joa_sss and i'm a (primarily) javascript developer from the Netherlands. I love coding and playing games, and you're on my github profile!
