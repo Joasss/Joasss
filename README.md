@@ -1,22 +1,12 @@
 <div id="header" align="center">
 <!--   <img src="https://api.pasterboard.online/cdn/fe2626bf7af36a77a9419e27d29af965" width="100"/> -->
   <div id="badges">
-  <a href="https://www.youtube.com/channel/UCFg3VUmIo-eB7qI5i7_EyGg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://discord.gg/HYGA7Y6ptk">
     <img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://www.reddit.com/user/Joa_sss">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=joasss&style=flat-square&color=blue" alt=""/>
 </div>
-
----
-
-[![Discord Bots](https://top.gg/api/widget/995243562134409296.svg)](https://top.gg/bot/995243562134409296/vote)
 
 ---
 
@@ -43,8 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  - also working on learning NestJS and NextJS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 </div>
 
 ---
@@ -56,8 +45,7 @@ No active projects.
 ---
 
 ### Completed Projects
-
-No completed projects.
+- QuaBot - A multipurpose Discord bot that i've worked on since 2020. It has been discontinued as of January 1, 2025. Source code is not public as of right now.
 
 ---
 
