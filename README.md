@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <!--   <img src="https://api.pasterboard.online/cdn/fe2626bf7af36a77a9419e27d29af965" width="100"/> -->
   <div id="badges">
-  <a href="https://discord.gg/HYGA7Y6ptk">
+  <a href="https://discord.gg/P2jVe88Hfd">
     <img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
@@ -40,14 +40,16 @@
 
 ### Current Projects
 
-No active projects.
+- QuaBot - A multipurpose Discord bot that i've worked on since 2020. Recently relaunched and growing. [Check it out](https://quabot.net)
+
 
 ---
 
 ### Completed Projects
-- QuaBot - A multipurpose Discord bot that i've worked on since 2020. It has been discontinued as of January 1, 2025. Source code is not public as of right now.
-
 ---
+
+- NeoPass
+- Snipvault
 
 ### Stats
 
